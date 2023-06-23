@@ -1,4 +1,4 @@
-Hi 👋 My name is Bhanu Karanwal
+Hi 👋 My name is Bhanu Karnwal
 ===============================
 
 Web Developer And Designer
