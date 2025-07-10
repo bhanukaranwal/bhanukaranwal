@@ -1,49 +1,70 @@
-Hi 👋 My name is Bhanu Karnwal
-===============================
+<div align="center">
 
-Web Developer And Designer
---------------------------
+<a href="https://github.com/bhanu-karnwal">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=BHANU+KARNWAL" alt="Typing SVG" />
+</a>
 
-I've been learning to code from the start of 2022. Yes, it was my new year resolution to learn HTML and CSS.So Far I believe I am doing kind of well I am not like fully a professional developer I just started it as a hobby.
+QUANTITATIVE DEVELOPER <> FINANCIAL ENGINEER <> DATA SCIENTIST
+</div>
 
-* 🌍  I'm based in Saharnpur,Uttar Pradesh
-* ✉️  You can contact me at [bhanukaranwal@gmail.com](mailto:bhanukaranwal@gmail.com)
-* 🧠  I'm learning Data Visulization
-* 🤝  I'm open to collaborating on Something Interesting
-* ⚡  I'm secretly a billionaire, don't tell anyone!
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://chain.link/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chainlink-colored.svg" width="36" height="36" alt="Chainlink" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
+<table width="100%">
+<tr>
+<td valign="top">
+<div id="user-content-toc">
+<ul align="center">
+<summary><h2 style="display: inline-block; margin-bottom: 0;">[ CORE FOCUS ]</h2></summary>
+</ul>
+</div>
+<p align="justify">
+As a Quantitative Developer with a deep-seated passion for financial markets, I specialize in architecting and implementing sophisticated trading algorithms, risk management frameworks, and data-driven predictive models. My expertise lies at the intersection of computer science, mathematics, and finance, where I leverage cutting-edge technology to solve complex challenges and unlock value from market data. I am driven by a relentless pursuit of alpha and a commitment to building robust, high-performance systems.
 </p>
 
+  <div id="user-content-toc">
+    <ul align="center">
+      <summary><h2 style="display: inline-block; margin-bottom: 0;">[ TECHNICAL STACK ]</h2></summary>
+    </ul>
+  </div>
+  
+  <table width="100%">
+    <tr>
+      <td valign="top" width="33%">
+        <strong>Languages</strong><br>
+        <code>Python</code><br>
+        <code>C++</code><br>
+        <code>SQL</code><br>
+        <code>R</code><br>
+        <code>JavaScript</code>
+      </td>
+      <td valign="top" width="33%">
+        <strong>Data & M/L</strong><br>
+        <code>Pandas</code><br>
+        <code>NumPy</code><br>
+        <code>TensorFlow</code><br>
+        <code>PyTorch</code><br>
+        <code>Scikit-learn</code>
+      </td>
+      <td valign="top" width="33%">
+        <strong>Tools & Platforms</strong><br>
+        <code>Docker</code><br>
+        <code>AWS / GCP</code><br>
+        <code>Kubernetes</code><br>
+        <code>Git</code><br>
+        <code>Jupyter</code>
+      </td>
+    </tr>
+  </table>
+</td>
 
-### Socials
+</tr>
+</table>
 
-<p align="left"> <a href="https://www.github.com/bhanukaranwal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhanu-karanwal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sarcastic_bhanu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+[ BEHIND THE TERMINAL ]
+🔭 Currently working on: Architecting a multi-asset strategy backtesting engine that's faster than a trader changing their mind on market direction.
 
-### Badges
+🌱 Learning about: Applying reinforcement learning to options pricing. The agent is currently learning that buying high and selling low is a suboptimal strategy.
 
-<b>My GitHub Stats</b>
+👯 Looking to collaborate on: Open-source projects in algorithmic trading, risk analysis, or anything that turns caffeine into clean, efficient code.
 
-<a href="http://www.github.com/bhanukaranwal"><img src="https://github-readme-stats.vercel.app/api?username=bhanukaranwal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bhanukaranwal's GitHub stats" /></a>
+💬 Ask me about: The Black-Scholes model, stochastic calculus, or why my code's runtime has more volatility than the VIX index on a Fed announcement day.
 
-<a href="http://www.github.com/bhanukaranwal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bhanukaranwal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/bhanukaranwal" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanukaranwal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+⚡ Fun fact: I once tried to explain a Kalman filter to my barista. Now my coffee cup has "state-space estimation" written on it. True story.
